@@ -1,7 +1,8 @@
-i\:desktop,
-.i-desktop {
+i\:desktop {
 	display: block;
 	width: 100%;
 	height: 100%;
 	background: #eee;
+	text-align: center;
+	overflow: auto;
 }
